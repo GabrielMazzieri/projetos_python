@@ -1,2 +1,2 @@
 # python_work_update
-Exercísios do livro Curso Intensivo de Python 
+Anotações e exercícios do livro Curso Intensivo de Python. E Projetos pessoais. 
