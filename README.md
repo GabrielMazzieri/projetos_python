@@ -1,2 +1,2 @@
-# python_work
-Anotações e exercícios do livro Curso Intensivo de Python. E Projetos pessoais. 
+# Projetos
+Alguns Projetos pessoais. 
